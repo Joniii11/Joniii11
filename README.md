@@ -1,15 +1,11 @@
-<p align="center">
-  <a href="https://tcno.co"><img src="https://i.imgur.com/ppB9LNC.png" alt="TCNO logo" width="60%"></a>
-</p>
+# Hello there!
   
-I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime YouTuber on [TroubleChute](https://www.youtube.com/TroubleChute) from South Africa.
-I spend far more time than I should on open-source software, and this is where you can find it.
+### I'm Jonas, a self thaught Developer. 
+#### I spend to much time coding bots.
 
-My website/Portfolio: https://tcno.co
+My social links
 <p align="center">
- <a href="https://s.tcno.co/AccSwitcherDiscord"><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/TCNOco"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://youtube.com/TroubleChute"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/channel/UCtXYhKFEjx3lAOroHIXpJkg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <h3 align="center">Languages I've worked with</h3>
