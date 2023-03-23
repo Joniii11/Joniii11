@@ -1,6 +1,6 @@
 # Hello there!
   
-### I'm Jonas, a self thaught Developer. 
+### I'm Jonas, a self-thaught Developer. 
 #### I spend to much time coding bots.
 
 My social links
