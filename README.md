@@ -1,7 +1,8 @@
 # Hello there!
   
-### I'm Jonas, a self-thaught Developer. 
-#### I spend to much time coding bots.
+I'm Jonas, a self-thaught Developer.
+
+**I spend too much time coding bots.**
 
 My social links
 <p align="center">
@@ -20,4 +21,4 @@ My social links
 
 
 
-### Also, see any Gists I've created [here](https://gist.github.com/Joniii11).
+Also, see any Gists I've created [here](https://gist.github.com/Joniii11).
