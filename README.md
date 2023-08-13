@@ -17,6 +17,7 @@ My social links
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101" alt="TS">
+  <img src="https://camo.githubusercontent.com/92009c215e9878e49f196191bb58e9206e30d665c8a49843ea111524ad334d4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462">
 </p>
 
 
